@@ -8,7 +8,6 @@ C:\Source\DemoApp-BlazorServer\bin\Debug\netcoreapp3.1\DemoApp-BlazorServer.dll
 C:\Source\DemoApp-BlazorServer\bin\Debug\netcoreapp3.1\DemoApp-BlazorServer.pdb
 C:\Source\DemoApp-BlazorServer\bin\Debug\netcoreapp3.1\DemoApp-BlazorServer.Views.dll
 C:\Source\DemoApp-BlazorServer\bin\Debug\netcoreapp3.1\DemoApp-BlazorServer.Views.pdb
-C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.csprojAssemblyReference.cache
 C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.AssemblyInfoInputs.cache
 C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.AssemblyInfo.cs
 C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.csproj.CoreCompileInputs.cache
@@ -49,3 +48,5 @@ C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.dll
 C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.pdb
 C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.genruntimeconfig.cache
 C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\DemoApp-BlazorServer.csproj.CopyComplete
+C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ThisIsMyPage.razor.g.cs
+C:\Source\DemoApp-BlazorServer\obj\Debug\netcoreapp3.1\Razor\Pages\ThisIsMyPage.razor.g.cs
